@@ -22,3 +22,5 @@ q3.m      第三题仿真器
 q4.m      第四题仿真器
 
 update_state.m    第四题仿真器所依赖的函数
+
+\GMCMthesis 论文正文tex源码 (亦可在 https://cn.overleaf.com/read/xtbzdhkknykn#ae369e 查看)
